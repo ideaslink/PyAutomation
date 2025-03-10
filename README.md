@@ -14,7 +14,7 @@ The application provides various automation tasks using Python,
 
 Python, Selenium, google chrome drive...
 
-# Installing
+# Installation
 
 - vs code (if necessary)
 - Python (if necessary)
